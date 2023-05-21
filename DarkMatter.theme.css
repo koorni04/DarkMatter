@@ -10,7 +10,7 @@
 
 /* Variables */
 :root {
-    --avatar-size: 32px;
+    --avatar-size: 64px;
     --background-image: url('https://pbs.twimg.com/media/Fo3aNjBacAAQuwI?format=jpg&name=large');
     --home-image: url('https://media.tenor.com/6iivv5-zZqYAAAAC/chicken-i-regret-nothing.gif');
     --background-solid: #161921;
